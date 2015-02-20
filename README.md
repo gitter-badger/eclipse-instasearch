@@ -33,6 +33,8 @@ Main Features
 
 Search Tips
 ---
+
+[![Join the chat at https://gitter.im/ajermakovics/eclipse-instasearch](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ajermakovics/eclipse-instasearch?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Lucene [query syntax](http://lucene.apache.org/core/old_versioned_docs/versions/3_0_0/queryparsersyntax.html) can be used for searching. This includes:
 
 * Wildcard searches
